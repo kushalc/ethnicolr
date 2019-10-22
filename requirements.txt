@@ -1,5 +1,5 @@
-pandas
-h5py
-Keras
-numpy
-tensorflow
+pandas==0.25
+h5py==2.9
+Keras==2.2
+numpy==1.16
+tensorflow==1.13
